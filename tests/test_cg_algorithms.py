@@ -9,6 +9,9 @@ from click.testing import CliRunner
 
 from cg_algorithms import cg_algorithms
 from cg_algorithms import cli
+from cg_algorithms.circle_algorithms import circle_algorithms
+from cg_algorithms.line_algorithm import line_algorithm
+from cg_algorithms.ellipse_algo import ellipse_algo
 
 
 @pytest.fixture
