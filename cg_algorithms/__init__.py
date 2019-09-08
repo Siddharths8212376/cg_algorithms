@@ -2,9 +2,9 @@
 
 """Top-level package for cg_algos."""
 # adding the import statements
-from circle_algorithms import circle_algorithms
-from line_algorithm import line_algorithm
-from ellipse_algo import ellipse_algo
+from .circle_algorithms import circle_algorithms
+from .line_algorithm import line_algorithm
+from .ellipse_algo import ellipse_algo
 
 __author__ = """Siddharth Suresh"""
 __email__ = 'siddharth8212376@gmail.com'
