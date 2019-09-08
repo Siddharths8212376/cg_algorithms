@@ -8,6 +8,6 @@ from .ellipse_algo import ellipse_algo
 
 __author__ = """Siddharth Suresh"""
 __email__ = 'siddharth8212376@gmail.com'
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 
 # adding the initial commit to github
