@@ -11,7 +11,7 @@ with open('README.rst') as readme_file:
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-requirements = ['Click>=6.0', 'PyOpenGL>=3.0.0']
+requirements = ['click>=7.0', 'PyOpenGL>=3.0.0']
 
 setup_requirements = ['pytest-runner', ]
 
@@ -50,6 +50,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/Siddharths8212376/cg_algorithms',
-    version='0.1.1',
+    version='0.1.2',
     zip_safe=False,
 )
