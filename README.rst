@@ -1,6 +1,6 @@
-========
-cg_algos
-========
+=============
+cg_algorithms
+=============
 
 
 .. .. image:: https://img.shields.io/pypi/v/cg_algorithms.svg
