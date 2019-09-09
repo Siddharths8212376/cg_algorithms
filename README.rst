@@ -80,3 +80,7 @@ View My Project at: https://test.pypi.org/project/cg-algorithms/0.1.5/
 Thanks:
 -------
 Thanking all the contributors for their contributions.
+
+Algorithm's Library and previous builds available at:
+
+https://github.com/Siddharths8212376/PyOpenGL-for-Windows/tree/master/ALGORITHMS_LIBRARY
