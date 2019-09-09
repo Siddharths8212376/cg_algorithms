@@ -65,8 +65,8 @@ Calling the function to draw the circle using Bresenham's algorithm:
 
     new_circle.bresenham_circle()
 
-Credits
--------
+Credits:
+--------
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
@@ -77,8 +77,8 @@ Sources:
 --------
 View My Project at: https://test.pypi.org/project/cg-algorithms/0.1.5/
 
-Thanks:
--------
+Thanking Notes:
+---------------
 Thanking all the contributors for their contributions.
 
 Algorithm's Library and previous builds available at:
