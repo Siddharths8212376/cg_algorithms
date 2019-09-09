@@ -26,7 +26,44 @@ implemented using opengl-python.
 Features
 --------
 
-* TODO
+* The given repository contains ready to use implementation of major computer graphics algorithms for easier workflow and better productivity.
+
+Installation
+------------
+With Python Package Manager ``pip``:
+
+.. code-block:: python
+
+    pip install -i https://test.pypi.org/simple/ cg-algorithms
+
+Basic Usage:
+------------
+
+.. code-block:: python
+
+    import cg_algorithms
+
+For importing the circle algorithms:
+------------------------------------
+
+
+.. code-block:: python
+
+    from cg_algorithms import circle_algorithms
+
+Creating a circle object:
+-------------------------
+
+.. code-block:: python
+
+    new_circle = circle_algorithms(<radius>, <x_centre>, <y_centre>)
+
+Calling the function to draw the circle using Bresenham's algorithm:
+--------------------------------------------------------------------
+
+.. code-block:: python
+
+    new_circle.bresenham_circle()
 
 Credits
 -------
@@ -36,4 +73,10 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
 
-View Me at: https://test.pypi.org/project/cg-algorithms/0.1.5/
+Sources:
+--------
+View My Project at: https://test.pypi.org/project/cg-algorithms/0.1.5/
+
+Thanks:
+-------
+Thanking all the contributors for their contributions.
