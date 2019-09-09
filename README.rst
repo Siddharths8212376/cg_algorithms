@@ -82,5 +82,6 @@ Thanks:
 Thanking all the contributors for their contributions.
 
 Algorithm's Library and previous builds available at:
+-----------------------------------------------------
 
 https://github.com/Siddharths8212376/PyOpenGL-for-Windows/tree/master/ALGORITHMS_LIBRARY
