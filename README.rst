@@ -49,7 +49,11 @@ For importing the circle algorithms:
 
 .. code-block:: python
 
+    # for importing circle algorithms
     from cg_algorithms import circle_algorithms
+    
+    # for importing line algorithms
+    from cg_algorithms import line_algorithm
 
 Creating a circle object:
 -------------------------
