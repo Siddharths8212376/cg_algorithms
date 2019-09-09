@@ -27,3 +27,8 @@ History
 
 * Fifth release on PyPI.
 
+0.1.5 (2019-09-10)
+------------------
+
+* Sixth release on PyPI.
+
