@@ -13,7 +13,13 @@ cg_algorithms
 ..         :target: https://cg-algorithms.readthedocs.io/en/latest/?badge=latest
 ..         :alt: Documentation Status
 
+Now Available on test.PYPI !!
+-----------------------------
 
+.. code-block:: python
+
+    pip install -i https://test.pypi.org/simple/ cg-algorithms
+    
 
 This project contains ready to use computer graphics algorithms for easier workflow and better productivity,
 implemented using opengl-python.
