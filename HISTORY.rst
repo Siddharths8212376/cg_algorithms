@@ -32,3 +32,9 @@ History
 
 * Sixth release on PyPI.
 
+0.1.6 (2019-09-22)
+------------------
+
+* Seventh release on PyPI.
+* Added Cohen-Sutherland Line Clipping Algorithm.
+
