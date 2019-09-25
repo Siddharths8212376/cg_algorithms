@@ -1,6 +1,6 @@
-========
-cg_algos
-========
+=============
+cg_algorithms
+=============
 
 
 .. .. image:: https://img.shields.io/pypi/v/cg_algorithms.svg
@@ -13,7 +13,13 @@ cg_algos
 ..         :target: https://cg-algorithms.readthedocs.io/en/latest/?badge=latest
 ..         :alt: Documentation Status
 
+Now Available on test.PYPI !!
+-----------------------------
 
+.. code-block:: python
+
+    pip install -i https://test.pypi.org/simple/ cg-algorithms
+    
 
 This project contains ready to use computer graphics algorithms for easier workflow and better productivity,
 implemented using opengl-python.
@@ -49,7 +55,11 @@ For importing the circle algorithms:
 
 .. code-block:: python
 
+    # for importing circle algorithms
     from cg_algorithms import circle_algorithms
+    
+    # for importing line algorithms
+    from cg_algorithms import line_algorithm
 
 Creating a circle object:
 -------------------------
@@ -76,6 +86,8 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 Sources:
 --------
 View My Project at: https://test.pypi.org/project/cg-algorithms/0.1.5/
+
+Main Site: https://test.pypi.org/project/cg-algorithms/
 
 Thanking Notes:
 ---------------
