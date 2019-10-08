@@ -38,3 +38,11 @@ History
 * Seventh release on PyPI.
 * Added Cohen-Sutherland Line Clipping Algorithm.
 
+0.1.7 (2019-10-08)
+------------------
+
+* Eighth release on PyPI.
+* Added the Flood and Boundary Filling Algorithms.
+
+
+
